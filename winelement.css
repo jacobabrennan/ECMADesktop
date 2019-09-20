@@ -1,0 +1,21 @@
+body{
+	background-color:#888888;
+	}
+.winelement{
+	position:absolute;
+	left:-64px;
+	top:-64px;
+	width:0px;
+	width:0px;
+	}
+form.winelement{
+	overflow:hidden;
+	}
+label.winelement{
+	font-weight:600;
+	/*color:#440000;#f19000;*/
+	position:relative;
+	top:2px;
+	left:0px;
+	/*left:16px;*/
+	}
